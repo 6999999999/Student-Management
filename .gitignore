@@ -1,0 +1,16 @@
+build/
+logs/
+node_modules/
+.idea/
+upload/
+
+package-lock.json
+
+**/.DS_Store
+
+.eslintcache
+
+#.env
+#.env.test
+
+test.js
